@@ -1,0 +1,9 @@
+@import url("./input-wrapper.css");
+@import url("./register-form.css");
+@import url("./login-form.css");
+* {
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
